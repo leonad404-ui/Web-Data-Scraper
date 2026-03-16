@@ -1,4 +1,4 @@
-# Web-Data-Scraper
+# Web Data Scraper - Extract & Export to CSV/Excel/JSON
 
 ![Alt text](https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png)
 
