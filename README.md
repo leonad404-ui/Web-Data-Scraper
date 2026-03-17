@@ -1,9 +1,11 @@
 # Web Data Scraper - Extract & Export to CSV/Excel/JSON
 
-![Alt text](https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png)
+[![Alt text](https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png)](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
+
+Download: [https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
 
 # Description
-Web Data Scraper - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.
+[Web Data Scraper](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github) - no-code internet scraping. Extract and export to CSV, Excel, JSON, Google Sheets, and Webhook.
 
 Turn any website into structured, export-ready data in minutes.
 
@@ -12,15 +14,15 @@ Web Data Scraper is a premium no-code Chrome extension built for professionals w
 Whether you are building lead lists, tracking competitors, monitoring catalogs, or collecting research data, Web Data Scraper gives you a clean workflow from page to dataset.
 
 # Features
-![Alt text](https://lh3.googleusercontent.com/LKAxBtGyRnAiSls7QYRGLwbepHWZ4TdVmOHs4_3gihDK7Xfc9JBQcbUBBtJOaemEEXlnVsuy294LK4ACVq5l3SsR=s1600-w1600-h1000)
+[![Alt text](https://lh3.googleusercontent.com/LKAxBtGyRnAiSls7QYRGLwbepHWZ4TdVmOHs4_3gihDK7Xfc9JBQcbUBBtJOaemEEXlnVsuy294LK4ACVq5l3SsR=s1600-w1600-h1000)](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
 
-![Alt text](https://lh3.googleusercontent.com/4fCNyAgJTUZrRGW5FkigF0HPE19_poMW70cadCTlZNf6K1moI556OqMrUsH5C7GckLcHjBJ3T2bnCbwECTkHxbYA=s1600-w1600-h1000)
+[![Alt text](https://lh3.googleusercontent.com/4fCNyAgJTUZrRGW5FkigF0HPE19_poMW70cadCTlZNf6K1moI556OqMrUsH5C7GckLcHjBJ3T2bnCbwECTkHxbYA=s1600-w1600-h1000)](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
 
-![Alt text](https://lh3.googleusercontent.com/5pSheqN9UGf_klPeHNcfLPoCy0NUZfgZXStHg7rfUAEOXK8flvdp0hD76Rgf2qKbpk4evY4yAuhl30A1RhUvkCrcFg=s1600-w1600-h1000)
+[![Alt text](https://lh3.googleusercontent.com/5pSheqN9UGf_klPeHNcfLPoCy0NUZfgZXStHg7rfUAEOXK8flvdp0hD76Rgf2qKbpk4evY4yAuhl30A1RhUvkCrcFg=s1600-w1600-h1000)](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
 
-![Alt text](https://lh3.googleusercontent.com/h26Ej3KSzCpqOX6JGwucukUqTVvIs_zU8sY6yFXq-SXcuK96Pe84lWteZkWjJMrJCtNHcABRe86LPeK3WPupGjmuHg=s1600-w1600-h1000)
+[![Alt text](https://lh3.googleusercontent.com/h26Ej3KSzCpqOX6JGwucukUqTVvIs_zU8sY6yFXq-SXcuK96Pe84lWteZkWjJMrJCtNHcABRe86LPeK3WPupGjmuHg=s1600-w1600-h1000)](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
 
-![Alt text](https://lh3.googleusercontent.com/-9VGAPWqNemyOecHYD5fe3IDMhm9r6QuSXTi-5fvtf8nGIgeGlnHCaR0a6dbOJb-SIFZP9oE1dtZct6uyUq6D0mqZg=s1600-w1600-h1000)
+[![Alt text](https://lh3.googleusercontent.com/-9VGAPWqNemyOecHYD5fe3IDMhm9r6QuSXTi-5fvtf8nGIgeGlnHCaR0a6dbOJb-SIFZP9oE1dtZct6uyUq6D0mqZg=s1600-w1600-h1000)](https://chromewebstore.google.com/detail/web-data-scraper-extract/naiajkdlnhbafibhgmndoklmkeocbljb?utm_source=github&utm_medium=github&utm_campaign=github)
 
 What makes it premium
 - Fast setup: start scraping in a few clicks, no coding required.
